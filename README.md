@@ -1,7 +1,7 @@
 # Repository
 Main branch with new features
 
-avarage shiz
+avarage stuff
 
 a=int(input('Zadaj číslo 1: '))
 

@@ -1,4 +1,5 @@
 # Repository
+Main branch with new features
 a = int(input('Zadaj množstvo čísel: '))
 
 priem = 0
